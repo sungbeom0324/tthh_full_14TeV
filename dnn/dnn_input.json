@@ -1,0 +1,28 @@
+{
+    "_comment_1": "os2l input for bfh, bft",
+    "input_1": [
+        "bJet_size",
+        "bJet1_pt", "bJet1_eta", "bJet1_phi", "bJet1_m",
+        "bJet2_pt", "bJet2_eta", "bJet2_phi", "bJet2_m",
+        "bJet3_pt", "bJet3_eta", "bJet3_phi", "bJet3_m",
+        "bJet4_pt", "bJet4_eta", "bJet4_phi", "bJet4_m",
+        "bJet5_pt", "bJet5_eta", "bJet5_phi", "bJet5_m",
+        
+        "b1b2_dr", "b1b3_dr", "b1b4_dr", "b1b5_dr",
+        "b2b3_dr", "b2b4_dr", "b2b5_dr",
+        "b3b4_dr", "b3b5_dr",
+        "b4b5_dr"
+    ],
+
+    "_comment_2": "os2l input_2",
+    "input_2": [
+        "bb_avg_dr", "bb_max_dr", "bb_min_dr", "b_ht", "bb_dEta_WhenMaxdR", "b_cent", "bb_max_m", "bb_twist"
+    ],
+
+    "_comment_3": "os2l input_3",
+    "input_3": [
+        "higgs_mass", "higgs_mass_sub", "higgs_mass_sum", "X_higgs",
+        "bfh_dr", "bfh_Ht", "bfh_dEta", "bfh_dPhi", "bfh_mbmb"
+    ]
+}
+
